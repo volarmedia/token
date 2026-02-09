@@ -1,0 +1,13 @@
+{
+  "name": "token/real-estate-token-app",
+  "description": "Token booking web app for a real estate project (Laravel).",
+  "type": "project",
+  "require": {
+    "php": "^8.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
